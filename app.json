@@ -2,7 +2,7 @@
     "name": "malvin-xpair",
     "description": "newly designed session by Malvin",
     "logo": "https://i.ibb.co/3MZpcvr/2fec156e2320d733.jpg",
-    "repository": "https://github.com/XdKing2/malvin-xpair",
+    "repository": "https://github.com/Dark-Town/malvin-xpair",
     "keywords": ["malvin-xpair"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
